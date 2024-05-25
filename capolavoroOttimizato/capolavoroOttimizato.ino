@@ -10,17 +10,17 @@
 #include "addons/RTDBHelper.h"
 
 // Inserisci le credenziali della rete Wi-Fi
-#define WIFI_SSID "Linkem_0A6B9B"             // Nome della rete Wi-Fi
-#define WIFI_PASSWORD "3uh+tkvp"              // Password della rete Wi-Fi
+#define WIFI_SSID "" //YOUR SSID                     // Nome della rete Wi-Fi
+#define WIFI_PASSWORD "" //YOUR PASSWORD             // Password della rete Wi-Fi
 
-#define USER_EMAIL "master@master.com"        // Email utente Firebase
-#define USER_PASSWORD "MasterAccount"         // Password utente Firebase
+#define USER_EMAIL ""  //YOUR EMAIL             // Email utente Firebase
+#define USER_PASSWORD ""  //YOUR PASSWORD       // Password utente Firebase
 
 // Inserisci l'API Key del progetto Firebase
-#define API_KEY "AIzaSyB1Fj9hHYh7lZMje_DbFdVnhvadJCINkrU"
+#define API_KEY "" //YOUR FIREBASE API KEY
 
 // Inserisci l'URL del database RTDB
-#define DATABASE_URL "https://esp32-monitoraggiosensori-default-rtdb.europe-west1.firebasedatabase.app"
+#define DATABASE_URL "" //YOUR DATABASE LINK
 
 // Pin e tipo di sensore DHT
 #define DHTPIN 15                            // Pin del sensore DHT11
